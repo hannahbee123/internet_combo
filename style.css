@@ -1,5 +1,5 @@
 /* Invention.html styling*/
-.invention-main .first-section
+.invention-main .first-section,.browser-main .first-section
 {
     margin-top: 20px;
 }
@@ -7,3 +7,16 @@
 {
     margin: 15px 0;
 }
+/* End of Invention.html styling */
+
+/* browser_wars.html styling*/
+.browser-main .browser-section .row
+{
+    margin: 30px 0;
+}
+
+.browser-main .sixth-section .col-lg-8
+{
+    margin-top: 20px;
+}
+
