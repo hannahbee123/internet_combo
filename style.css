@@ -47,3 +47,13 @@
     padding: 18px;
     margin-top: 20px;
 }
+
+.dot-main .dot-section .row
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dot-main .dot-section .row h4
+{
+    margin-bottom: 15px;
+}
