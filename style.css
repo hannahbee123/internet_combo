@@ -40,14 +40,7 @@
     }
 }
 
-/* About and Team content styling */
-#content {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 17px;
-    padding: 18px;
-    margin-top: 20px;
-}
-
+/* Dot com bubble styling */
 .dot-main .dot-section .row
 {
     margin-top: 50px;
@@ -57,3 +50,12 @@
 {
     margin-bottom: 15px;
 }
+
+/* About and Team content styling */
+#content {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    padding: 18px;
+    margin-top: 20px;
+}
+
