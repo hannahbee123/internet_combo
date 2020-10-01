@@ -21,7 +21,7 @@
 }
 /* browser_wars.html styling */
 
-/* internet_search styling */
+/* internet_search styling & People styling */
 .search-main .search-section
 {
     margin: 20px 0;
@@ -31,14 +31,29 @@
 {
     margin-bottom: 15px;
 }
+/*----------------------*/
 
+/* internet_search styling & People styling for smaller screens*/
 @media (max-width: 800px)
 {
-    .search-section .row img
+    .search-section .row img, .people-main .people-section, .row img
     {
         margin: 30px 0;
     }
 }
+/*----------------------*/
+
+/* Dot com bubble styling and People styling */
+.dot-main .dot-section .row, .people-main .people-section, .row
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dot-main .dot-section .row h4, .people-main .people-section, .row h4
+{
+    margin-bottom: 15px;
+}
+/*----------------------*/
 
 /* About and Team content styling */
 #content {
@@ -47,3 +62,4 @@
     padding: 18px;
     margin-top: 20px;
 }
+
