@@ -1,5 +1,8 @@
-# History of the Internet for IS117
+# History of the Internet and How It Works
 
 1. Created by:
 * Hannah Benjamin
-* Christian Domacena
+
+2. Figma:
+
+3. Hosted on:
