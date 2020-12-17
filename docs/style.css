@@ -70,3 +70,18 @@ figcaption {
     margin-left: 20px;
 }
 
+/* footer on all pages */
+.footer {
+    margin: auto;
+}
+
+/* footer text on all pages */
+.footer-text {
+    font-size: small;
+}
+
+/* container for home carousel */
+.home-carousel {
+    max-width: 900px;
+}
+
